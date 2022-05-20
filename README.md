@@ -29,8 +29,8 @@
 - Cần quản lý và hiểu chi tiết sản phẩm của bản thân mình có những gì và yêu cầu trình độ quản lí code cao hơn với việc làm bài tập thông thường
 - Với các dữ án cỡ vừa và nhỏ sử dụng một mảng kiến thức mới, điều khó khăn, thách thức cũng như thú vị nhất là việc học hiểu bản chất và ứng dụng những công cụ mà chúng ta sử dụng
 - Khả năng **bình tĩnh, kiên nhẫn** khi tìm vấn đề và debug lỗi, sự kiên trì không bỏ cuộc
-### Hướng phát triển tưởng lai
-- Nâng cấp phần đô hoạ sao cho tôi ưu và mượt mà hơn, đặc biệt là ở các khúc cua
+### Hướng phát triển tương lai
+- Nâng cấp phần đồ hoạ sao cho tối ưu và mượt mà hơn, đặc biệt là ở các khúc cua
 - Bổ sung cập nhật điểm số cao nhất trong phần menu
 - tạo thêm các màn chơi và các loại quả mới 
 - tạo thêm một vài các easter egg thú vị
