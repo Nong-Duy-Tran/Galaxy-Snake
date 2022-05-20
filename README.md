@@ -7,10 +7,12 @@
 - Bước 2: Giải nén, tìm và chạy file GalaxySnake.exe để khởi động và chơi trò chơi
 ## **2. Mô tả chung về trò chơi**
 - Trò chơi về cơ bản là game rắn săn mồi thông thường nhưng chỉnh sửa về đồ hoạ và giao diện theo phong cách cá nhân
+- Có 2 loại thức ăn cho rắn là quả cherry (tăng điểm số) và Teemo(chồn không gian) giảm điểm số của người chơi
 - Ý tưởng là từ trò chơi rắn săn mồi cổ điển kết hợp với thư viện SDL_image, SDL_mixer,...
 ## **3. Mô tả các chức năng đã cài đặt**
 - Tại màn hình MENU có 2 nút tuỳ chọn START hoặc QUIT
 - Sử dụng các phím mũi tên (lên, xuống, trái, phải) để di chuyển con rắn ăn các quả táo và tránh va phải tưởng hay thân
+- Né tránh Teemo để tối đa hoá điểm số
 - Chèn âm thanh vào mỗi lúc rắn ăn quả với lúc chọn các option trong menu và khi màn hình Game Over
 - Khi thua màn hình chuyển qua Game Over, có 2 lựa chọn là Play Again và Quit 
 ## **4. Các kĩ thuật lập trình dã sử dụng**
