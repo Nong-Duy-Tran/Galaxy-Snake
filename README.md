@@ -3,9 +3,21 @@
 - Mã Sinh Viên: 21020547
 - Tên Game: Galaxy Snake 
 ## **1. Hướng dẫn cài đặt**
-- Với người chơi game thông thường
+- Với mục đích chơi game
     - Bước 1: Download từ github file zip code chứa game, thư viện, hình ảnh audio,....
     - Bước 2: Giải nén, tìm và chạy file GalaxySnake.exe để khởi động và chơi trò chơi
+- Với mục đích check code
+    - Bước tiền đề:
+         - Bước 0.1:
+    - Bước 1: Download từ github file zip code chứa game, thư viện, hình ảnh audio,....
+    - Bước 2: Giải nén file
+    - Bước 3: tìm thư mục src -> SDL2-2.0.20 -> x86_64-w64-mingw32 -> bin
+    - Bước 4: 
+    - Bước 3: Vào trong phần tìm kiếm của window, gõ Path và chọn vào mục "Edit environment variables for your accounts"
+    - Bước 4: Trong phần User variables for Admin, nhấn đúp vào phần PATH 
+    - Bước 6: Click vào ô New sau đó dán (Paste) địa chỉ đã copy trước đó vào ô hiển thị lên
+    - Bước 7: Click vào ô Move up cho đến khi địa chỉ lên đầu dòng
+    - Sử dụng các chương trình IDE để kiểm tra code
 ## **2. Mô tả chung về trò chơi**
 - Trò chơi về cơ bản là game rắn săn mồi thông thường nhưng chỉnh sửa về đồ hoạ và giao diện theo phong cách cá nhân
 - Có 2 loại thức ăn cho rắn là quả cherry (tăng điểm số) và Teemo(chồn không gian) giảm điểm số của người chơi
