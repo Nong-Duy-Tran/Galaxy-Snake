@@ -3,8 +3,9 @@
 - Mã Sinh Viên: 21020547
 - Tên Game: Galaxy Snake 
 ## **1. Hướng dẫn cài đặt**
-- Bước 1: Download từ github file zip code chứa game, thư viện, hình ảnh audio,....
-- Bước 2: Giải nén, tìm và chạy file GalaxySnake.exe để khởi động và chơi trò chơi
+- Với người chơi game thông thường
+    - Bước 1: Download từ github file zip code chứa game, thư viện, hình ảnh audio,....
+    - Bước 2: Giải nén, tìm và chạy file GalaxySnake.exe để khởi động và chơi trò chơi
 ## **2. Mô tả chung về trò chơi**
 - Trò chơi về cơ bản là game rắn săn mồi thông thường nhưng chỉnh sửa về đồ hoạ và giao diện theo phong cách cá nhân
 - Có 2 loại thức ăn cho rắn là quả cherry (tăng điểm số) và Teemo(chồn không gian) giảm điểm số của người chơi
