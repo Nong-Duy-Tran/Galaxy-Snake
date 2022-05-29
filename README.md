@@ -19,7 +19,7 @@
     - Bước 4: Trong phần "User variables for Admin" , nhấn đúp vào phần "PATH" 
     - Bước 6: Click vào ô "New" sau đó dán (Paste) địa chỉ đã copy ở phần folder bin trước đó vào ô hiển thị lên
     - Bước 7: Click vào ô "Move up" cho đến khi địa chỉ lên đầu dòng
-    - Sử dụng các chương trình IDE để kiểm tra code
+    - Sử dụng IDE cho các file code 
 ## **2. Mô tả chung về trò chơi**
 - Trò chơi về cơ bản là game rắn săn mồi thông thường nhưng chỉnh sửa về đồ hoạ và giao diện theo phong cách cá nhân
 - Có 2 loại thức ăn cho rắn là quả cherry (tăng điểm số) và Teemo(chồn không gian) giảm điểm số của người chơi
