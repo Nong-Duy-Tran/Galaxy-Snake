@@ -33,6 +33,7 @@
 - Khi thua màn hình chuyển qua Game Over, có 2 lựa chọn là Play Again và Quit 
 ## **4. Các kĩ thuật lập trình dã sử dụng**
 - Sử dụng vector, con trỏ, class, struct
+- Sử dụng biến enum
 - Sử dụng danh sách liên kết để duyện cả con rắn
 - Ứng dụng các thư viện như SDL2, SDL2_image, SDL2_mixer, SDL_ttf để :
     - Cài đặt hiển thị đồ hoạ 
