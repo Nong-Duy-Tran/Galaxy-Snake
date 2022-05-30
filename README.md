@@ -23,6 +23,8 @@
 ## **2. Mô tả chung về trò chơi**
 - Trò chơi về cơ bản là game rắn săn mồi thông thường nhưng chỉnh sửa về đồ hoạ và giao diện theo phong cách cá nhân
 - Có 2 loại thức ăn cho rắn là quả cherry (tăng điểm số) và Teemo(chồn không gian) giảm điểm số của người chơi
+- Teemo sẽ xuất hiện mỗi khi người chơi ăn 3 quả cherry và mọc lên dần dần khắp map 
+- Người chơi phải tính toán đường đi để ăn quả và tối đa hoá điểm số
 - Ý tưởng là từ trò chơi rắn săn mồi cổ điển kết hợp với thư viện SDL_image, SDL_mixer,...
 ## **3. Mô tả các chức năng đã cài đặt**
 - Click vào để [xem video](https://www.youtube.com/watch?v=bDF5gAlW5xI)
