@@ -25,6 +25,7 @@
 - Có 2 loại thức ăn cho rắn là quả cherry (tăng điểm số) và Teemo(chồn không gian) giảm điểm số của người chơi
 - Ý tưởng là từ trò chơi rắn săn mồi cổ điển kết hợp với thư viện SDL_image, SDL_mixer,...
 ## **3. Mô tả các chức năng đã cài đặt**
+- Click vào để [xem video](https://www.youtube.com/watch?v=bDF5gAlW5xI)
 - Tại màn hình MENU có 2 nút tuỳ chọn START hoặc QUIT
 - Sử dụng các phím mũi tên (lên, xuống, trái, phải) để di chuyển con rắn ăn các quả táo và tránh va phải tưởng hay thân
 - Né tránh Teemo để tối đa hoá điểm số
