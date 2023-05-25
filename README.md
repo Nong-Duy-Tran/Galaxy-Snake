@@ -42,7 +42,7 @@
     - Load ảnh vào trò chơi
     - Chèn âm thanh để tăng độ chân thực
     - Sử dụng font chữ có sẵn, tạo nên ảnh của màn hình khi thua
-## **5. Kết luận, hướng phát triển và các điều tâm đắc rút ra được sau khi hoàn thiện chương trình**
+## **5. Kết luận, hướng phát triển và các bài học rút ra được sau khi hoàn thiện chương trình**
 ### Kết luận và những điều tâm đắc 
 - Code game khá khó, yêu cần cần sử dụng nhiều kĩ năng lập trình một cách linh hoạt để giải quyết những vấn đề liên quan đến giải thuật và đồ hoạ
 - Cần quản lý và hiểu chi tiết sản phẩm của bản thân mình có những gì và yêu cầu trình độ quản lí code cao hơn với việc làm bài tập thông thường
